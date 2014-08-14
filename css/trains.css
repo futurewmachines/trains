@@ -1,0 +1,21 @@
+div.header {
+    width: 100%;
+}
+div.header-left {
+    width: 500px;
+    float: left;
+}
+div.header-right {
+    margin-left: 510px;
+}
+div.schedule {
+    padding-top: 10px;
+}
+th {
+    text-decoration: underline;
+    padding: 2px 10px;
+}
+td {
+    padding: 2px 10px;
+}
+
